@@ -14,8 +14,8 @@ On Github you can find the circuit diagrams of the Anet A8 / A6 and typical mosf
 
 <img src="https://chinadrucker.de/wp-content/uploads/2017/07/072917_1833_ListederErs7.png" alt="" data-canonical-src="https://chinadrucker.de/wp-content/uploads/2017/07/072917_1833_ListederErs7.png" width="250" height="250" />
 
-On the normal mainboard of the Anet A8 there are IRLR7843PbF Mosfets to manage the power of Hotbed and Hotbed.
-This onboard mosfet has a Resistance of 4mOhm and a Thermalresistor of 1,05K/W. This Mosfet has no chance to manage the power.
+On the normal mainboard of the Anet A8 there are IRLR7843PbF mosfets to manage the power of hotbed and hotend.
+This onboard mosfet has a resistance of 4mOhm and a thermalresistor of 1,05K/W. This mosfet has no chance to manage the power.
 * [Datasheet of IRLR7843PbF](https://www.infineon.com/dgdl/irlr7843pbf.pdf?fileId=5546d462533600a40153566de53526d8)
  
 I will take the connectors for hotbed and hotend on the mainboard, which can switch my extern double mosfet board. I change the connectors of the mainbord to JST-XH connectors, because no high currents flow over it anymore.
