@@ -21,4 +21,4 @@ On the normal Mainbaord of the Anet A8 there are IRLR7843PbF Mosfets to manage t
 
 This Boards has Mosfets of the typ [HA210N06](http://www.cecb2b.com/batchupload/inventoryother/zfa_ic_inventory/201495/zfa__332199_f13c9a0a038c37904c57614f101672ad.PDF) like on the picture or [YMP200N08Q](http://www.2150692.ru/files/ymp200n08q.pdf)
 
-<img src="https://camo.githubusercontent.com/331400aee821efda2e36ee9b3bc8bce93b975109/68747470733a2f2f6779617a6f2e636f6d2f65623563353734316236613961313663363932313730613431613439633835382e706e67" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://s3-ap-southeast-1.amazonaws.com/a2.datacaciques.com/wm/1650504465/3565163477/4090666767.png" alt="" data-canonical-src="https://s3-ap-southeast-1.amazonaws.com/a2.datacaciques.com/wm/1650504465/3565163477/4090666767.png" width="200" height="400" />
