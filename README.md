@@ -16,7 +16,7 @@ On the normal Mainbaord of the Anet A8 there are IRLR7843PbF Mosfets to manage t
 * [Datasheet of IRLR7843PbF](https://www.infineon.com/dgdl/irlr7843pbf.pdf?fileId=5546d462533600a40153566de53526d8)
  
 ## extern Mosfet Protection Boards
-![](https://s3-ap-southeast-1.amazonaws.com/a2.datacaciques.com/wm/1650504465/3565163477/4090666767.png | width=500)
+![](https://s3-ap-southeast-1.amazonaws.com/a2.datacaciques.com/wm/1650504465/3565163477/4090666767.png =250x)
 [Example protection Board on Aliexpress](https://de.aliexpress.com/item/3D-Printer-Parts-Heated-Bed-Power-Module-Board-25A-MOSFET-For-Chitu-Motherboard/32814486198.html)
 
 This Boards has Mosfets of the typ [HA210N06](http://www.cecb2b.com/batchupload/inventoryother/zfa_ic_inventory/201495/zfa__332199_f13c9a0a038c37904c57614f101672ad.PDF) like on the picture or [YMP200N08Q](http://www.2150692.ru/files/ymp200n08q.pdf)
