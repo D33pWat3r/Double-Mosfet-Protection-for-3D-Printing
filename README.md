@@ -10,7 +10,7 @@ On Github you can find the circuit diagrams of the Anet A8 / A6 and typical Mosf
 
 ## Mainboard Mosfets
 <img src="http://www.anet3d.com/uploads/allimg/160705/1-160F50ZP1192.JPG" alt="" data-canonical-src="http://www.anet3d.com/uploads/allimg/160705/1-160F50ZP1192.JPG" width="400" height="400" />
-[http://www.anet3d.com/uploads/allimg/160705/1-160F50ZP1192.JPG](http://www.anet3d.com/uploads/allimg/160705/1-160F50ZP1192.JPG)
+[Mainboard](http://www.anet3d.com/uploads/allimg/160705/1-160F50ZP1192.JPG)
 
 On the normal Mainbaord of the Anet A8 there are IRLR7843PbF Mosfets to manage the Power of Hotbed and Hotbed.
 * [Datasheet of IRLR7843PbF](https://www.infineon.com/dgdl/irlr7843pbf.pdf?fileId=5546d462533600a40153566de53526d8)
