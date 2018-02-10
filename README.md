@@ -28,7 +28,7 @@ I will take the connectors for hotbed and hotend on the mainboard, which can swi
 This boards has mosfets of the typ HA210N06 or YMP200N08Q which have a resistance of 3mOhm and a thermalresistance of 0,75. If I take one of this mosfets for my circuit, than I have a powerlost of 10W and need a big heat sink with max. 13K/W.
 
 Instead, I take the mosfets of type IRF1404 because the resistance of 0,35mOhm is much lower. This only results in a loss of 1.2W and no heatsink is needed.
-Due to the high current, 2 Mosfets + 1 redundant Mosfet will be installed for the Hotbed. The Hotend gets 1 Mosfet + 1 redundant Mosfet.
+Due to the high current, 1 Mosfets + 1 redundant Mosfet will be installed for the Hotbed. The Hotend gets 1 Mosfet + 1 redundant Mosfet.
 For easy plug, high-current XT60 Plugins are installed. This Connectors can handle 50A over a long time and have low connector resistance.
 For the cables I take AWG 12-10 silicone cable with 3,3mm² - 5,2mm². The cable thickness is probably too much, but better too much than too low ;)
 
